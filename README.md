@@ -10,15 +10,15 @@ npm install -g perka-job-api
 
 ## Usage
 
-Simply run `perka-apply` if you installed it globally and answer the questions!
+Once installed globally, run `perka` and answer the questions!
 
 ````bash
-perka-apply
+> perka
 ````
 
 ## NOTE
 
-If you use this tool, you probably don't deserve the job.
+If you use this tool, you probably don't deserve a job.. anywhere.
 
 ## License - MIT
 
