@@ -2,8 +2,6 @@
 
 Take the hassle out of applying to Perka, Inc. using their super top-secret API found on http://perka.com/jobs/
 
-NOTE: If you use this tool, you probably don't deserve the job.
-
 ## Installation
 
 ````bash
@@ -17,6 +15,10 @@ Simply run `perka-apply` if you installed it globally and answer the questions!
 ````bash
 perka-apply
 ````
+
+## NOTE
+
+If you use this tool, you probably don't deserve the job.
 
 ## License - MIT
 

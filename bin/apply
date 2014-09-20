@@ -19,7 +19,7 @@ API.reduce(Q.when, Q([])).then(function (responses) {
 	rl.close();
 
 	var options = {
-		headers: { 'X-Submitted-With': 'perka-jobs-api' }
+		headers: { 'X-Submitted-With': 'perka-job-api' }
 	};
 	var postObj = responsesToObject(responses);
 
