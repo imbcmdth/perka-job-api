@@ -1,0 +1,29 @@
+{
+  "name": "perka-job-api",
+  "description": "The easy way to use Perka's Job API - http://perka.com/jobs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/imbcmdth/perka-job-api",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imbcmdth/perka-job-api.git"
+  },
+  "author": {
+    "name": "Jon-Carlos Rivera",
+    "email": "jon.carlos.rivera@gmail.com",
+    "url": "http://jon-carlos.com"
+  },
+  "keywords": [
+    "perka",
+    "job",
+    "api",
+    "rest"
+  ],
+  "bin": {
+    "perka-apply": "./bin/apply.js"
+  },
+  "dependencies": {
+    "q": ">=1.0.1",
+    "needle": ">=0.7.9"
+  },
+  "license": "MIT"
+}
