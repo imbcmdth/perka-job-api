@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var readline = require('readline');
 var Q = require('q');
 var needle = require('needle');
@@ -19,7 +21,7 @@ API.reduce(Q.when, Q([])).then(function (responses) {
 	rl.close();
 
 	var options = {
-		headers: { 'X-Submitted-With': 'perka-job-api' }
+		headers: { 'X-Submitted-With': 'https://github.com/imbcmdth/perka-job-api' }
 	};
 	var postObj = responsesToObject(responses);
 
