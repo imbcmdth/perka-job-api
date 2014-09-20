@@ -21,7 +21,10 @@ API.reduce(Q.when, Q([])).then(function (responses) {
 	rl.close();
 
 	var options = {
-		headers: { 'X-Submitted-With': 'https://github.com/imbcmdth/perka-job-api' }
+		headers: {
+			'Content-Type': 'application/json',
+			'X-Submitted-With': 'https://github.com/imbcmdth/perka-job-api'
+		}
 	};
 	var postObj = responsesToObject(responses);
 
