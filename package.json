@@ -1,7 +1,7 @@
 {
   "name": "perka-job-api",
   "description": "The easy way to use Perka's Job API - http://perka.com/jobs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/imbcmdth/perka-job-api",
   "repository": {
     "type": "git",
@@ -29,6 +29,6 @@
     "q": ">=1.0.1",
     "needle": ">=0.7.9"
   },
-  "_id": "perka-job-api@0.0.5",
+  "_id": "perka-job-api@0.0.6",
   "license": "MIT"
 }
