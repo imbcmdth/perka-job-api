@@ -14,6 +14,16 @@ Once installed globally, run `perka` and answer the questions!
 
 ````bash
 > perka
+Your first name: Santa
+Your last name: Claus
+Your email: santa@gmail.com
+Id of position you are applying for (Don't want to be placed in a bucket? Use "GENERALIST"): TOY MAKER
+Tell us how you made the API request [enter to skip]: https://github.com/imbcmdth/perka-job-api
+Links to your GitHub profile, personal projects, or other awesome things that you've done [enter an empty line to end]: http://thenorthpole.com/
+Links to your GitHub profile, personal projects, or other awesome things that you've done [enter an empty line to end]:
+How did you find Perka? (avid user, talent scout, friend, Hacker School.) [enter to skip]: Divination!
+Your resume in PDF format [enter a file name]: naughty.nice.list.pdf
+Thanks, your application has been submitted!
 ````
 
 ## NOTE
