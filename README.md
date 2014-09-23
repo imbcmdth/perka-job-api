@@ -12,7 +12,7 @@ npm install -g perka-job-api
 
 Once installed globally, run `perka` and answer the questions!
 
-````bash
+````
 > perka
 Your first name: Santa
 Your last name: Claus
